@@ -1,5 +1,7 @@
 # Starter Web Project
 
+Lorem ipsum dolom sit amet.
+
 ## Introduction
 
 ## Purpose
