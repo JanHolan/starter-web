@@ -8,8 +8,10 @@ THIS IS AN INTRODUCTION.
 
 ## Purpose
 
-WE have no purpose.
+WE have no purpose. WAT
 
 ## Deployment
+
+Tohle necommitnu
 
 ## How To Continue
